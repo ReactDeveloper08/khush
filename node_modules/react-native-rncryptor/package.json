@@ -1,0 +1,29 @@
+
+{
+  "name": "react-native-rncryptor",
+  "version": "1.0.2",
+  "description": "React Native RNCryptor AES 256 encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aes",
+    "aes-256",
+    "rncryptor",
+    "crypto",
+    "cbc",
+    "pbkdf2",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": "richfisher",
+  "license": "MIT",
+  "peerDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:richfisher/react-native-rncryptor-aes-256.git"
+  }
+}

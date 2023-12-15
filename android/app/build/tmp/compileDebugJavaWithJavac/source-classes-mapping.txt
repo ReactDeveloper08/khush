@@ -1,0 +1,15 @@
+in/daaconline/doomshell/ReactNativeFlipper.java
+ in.daaconline.doomshell.ReactNativeFlipper
+ in.daaconline.doomshell.ReactNativeFlipper$1
+ in.daaconline.doomshell.ReactNativeFlipper$2
+ in.daaconline.doomshell.ReactNativeFlipper$2$1
+in/daaconline/doomshell/MainApplication.java
+ in.daaconline.doomshell.MainApplication
+ in.daaconline.doomshell.MainApplication$1
+in/daaconline/doomshell/MainActivity.java
+ in.daaconline.doomshell.MainActivity
+ in.daaconline.doomshell.MainActivity$1
+in/daaconline/doomshell/BuildConfig.java
+ in.daaconline.doomshell.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

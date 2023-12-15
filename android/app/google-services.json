@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "490969770677",
+    "firebase_url": "https://daac-84dae.firebaseio.com",
+    "project_id": "daac-84dae",
+    "storage_bucket": "daac-84dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490969770677:android:099faebef9b7ebcbabecfc",
+        "android_client_info": {
+          "package_name": "com.daac.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490969770677-b166ti3tpggm2fobkdh0edkihtjp7est.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjp7AH1guCTIUwK14_tKi_BTyj5vTQWm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490969770677-b166ti3tpggm2fobkdh0edkihtjp7est.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490969770677-5qfmumtdgoe51kghov3p1va7s4sk973j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.daaconline.doomshell"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490969770677:android:eeb604a9fb4d004babecfc",
+        "android_client_info": {
+          "package_name": "in.daaconline.doomshell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490969770677-b166ti3tpggm2fobkdh0edkihtjp7est.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjp7AH1guCTIUwK14_tKi_BTyj5vTQWm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490969770677-b166ti3tpggm2fobkdh0edkihtjp7est.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490969770677-5qfmumtdgoe51kghov3p1va7s4sk973j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.daaconline.doomshell"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
